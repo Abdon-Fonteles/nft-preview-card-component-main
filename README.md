@@ -1,4 +1,4 @@
 # NFT Preview Card Component Main
 
-#Screenshot
+# Screenshot
 [](screenshot.png)
